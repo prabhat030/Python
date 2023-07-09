@@ -1,7 +1,5 @@
 c=0
 a=True
-while a==False:
-    print("Ended")
 while a==True:
     print("MENU:")
     print("Enter 1 for Addition")
