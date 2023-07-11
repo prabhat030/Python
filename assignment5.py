@@ -13,5 +13,5 @@ l1.reverse()
 print("Display list in descending order: ",l1)
 t1=tuple(l1)
 print("Display lis in tuple",t1)
-del t1
+del l1
 print("List Deleted")
